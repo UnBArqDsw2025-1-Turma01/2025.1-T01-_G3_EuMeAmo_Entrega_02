@@ -2,6 +2,8 @@
 
 - [Início](/)
 <!-- - [Projetos](/Projeto/Projeto.md) -->
+- [Padronização de Branches e Commits](./Projeto/IniciativasExtras/PadronizacaoBranchesCommits.md)
+- [Padrão de Página de Documentação](./Projeto/IniciativasExtras/PadraoDePagina.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
