@@ -1,5 +1,4 @@
-
-# Reunião 1 : 29/04/2025
+ Reunião 1 : 29/04/2025
 
 ## Introdução
 
@@ -16,8 +15,15 @@ Este artefato resume como se deu todo o andamento da reunião do grupo 03 realiz
 ## Integrantes presentes:
 
 <label><input type="checkbox" checked disabled>[Arthur Fonseca Vale](https://github.com/arthurfonsecaa)</label><br>
+<label><input type="checkbox" checked disabled>[Carlos Henrique de Souza Bispo](https://github.com/carlinn1)</label><br>
 <label><input type="checkbox" checked abled>[Fillipe Souto de Andrade](https://github.com/fillipeb50)</label><br>
+<label><input type="checkbox" checked disabled>[Gabriel Saraiva Canabrava](https://github.com/gabrielsarcan)</label><br>
 <label><input type="checkbox" checked disabled>[Letícia de Cássia Hladczuk Rodrigues](https://github.com/HladczukLe)</label><br>
+<label><input type="checkbox" checked disabled>[Lucas Gama De Araujo Bottino](https://github.com/bottinolucas)</label><br>
+<label><input type="checkbox" checked disabled>[Luiza Maluf Amorim](https://github.com/LuizaMaluf)</label><br>
+<label><input type="checkbox" checked disabled>[Mateus Levy Avelans Boquady](https://github.com/mateus9levy)</label><br>
+<label><input type="checkbox" checked disabled>[Pablo Serra Carvalho](https://github.com/Pabloserrapxx)</label><br>
+<label><input type="checkbox" checked disabled>[Rodrigo Fonseca Rodrigues](https://github.com/rodfon3301)</label><br>
 
 ## Informações da reunião
 
