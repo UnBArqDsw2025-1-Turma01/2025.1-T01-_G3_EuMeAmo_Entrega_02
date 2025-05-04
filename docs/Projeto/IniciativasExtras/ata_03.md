@@ -50,7 +50,11 @@ A construção e análise dos diagramas de sequência possibilitaram uma compree
 
 ## Gravação da reunião
 
+<font size="3"><p> Vídeo 1: Produção do Diagrama de Sequência - Modelagem Dinâmica.</p></font>
 
+<div style= "max-width:450px">
+<iframe width="560" height="315" src="https://youtu.be/7jzILsLqgAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ## Histórico de Versão
 
