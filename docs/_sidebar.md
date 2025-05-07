@@ -8,6 +8,7 @@
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
     - [2.1. Modelagem UML Estática](Modelagem/2.1.ModelagemEstatica.md)
+      - [2.1.1. Diagrama de Classes](Modelagem/2.1.1.DiagramaDeClasses.md)
       - [2.1.2. Diagrama de Implementação](Modelagem/2.1.2.DigramaDeImplementação.md)
     - [2.2. Modelagem UML Dinâmica](Modelagem/2.2.ModelagemDinamica.md)
       - [2.2.1. Diagrama de Sequência](Modelagem/2.2.1.DiagramaDeSequencia.md)
