@@ -53,9 +53,9 @@ Nesta reunião, o grupo se dedicou ao estudo e à construção dos diagramas de 
 ## Resultados da reunião 
 
 - [ ]  Modelagem UML Estática
-    - [x]  Diagrama de Classe
+    - [ ]  Diagrama de Classe
     - [ ]  Diagrama de Implementação
-    - [ ]  Diagrama de Componentes
+    - [x]  Diagrama de Componentes
 - [ ]  Modelagem UML Organizacional ou Caso de Uso
     - [ ]  Diagrama de Pacotes
     - [x]  Casos de Uso
