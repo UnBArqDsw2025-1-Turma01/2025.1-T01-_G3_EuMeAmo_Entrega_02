@@ -30,3 +30,6 @@
     - [Ata - 04](Projeto/IniciativasExtras/ata_04.md)
     - [Ata - 05](Projeto/IniciativasExtras/ata_05.md)
     - [Ata - 06](Projeto/IniciativasExtras/ata_06.md)
+    - [Ata - 07](Projeto/IniciativasExtras/ata_07.md)
+    - [Ata - 08](Projeto/IniciativasExtras/ata_08.md)
+    - [Ata - 09](Projeto/IniciativasExtras/ata_09.md)
