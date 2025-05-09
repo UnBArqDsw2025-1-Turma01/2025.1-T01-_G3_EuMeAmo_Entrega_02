@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Nesta reunião, o grupo se dedicou ao estudo e à construção dos diagramas de classes e componentes. Foram discutidas as estruturas e elementos principais de cada diagrama, com base nos materiais da professora Milene Serrano, e iniciada a modelagem prática no LucidChart.
+Nesta reunião, o grupo se dedicou ao estudo e à construção dos diagramas de caso de uso e componentes. Foram discutidas as estruturas e elementos principais de cada diagrama, com base nos materiais da professora Milene Serrano, e iniciada a modelagem prática no LucidChart.
 
 
 
@@ -62,7 +62,7 @@ Nesta reunião, o grupo se dedicou ao estudo e à construção dos diagramas de 
 
 ## Gravação da reunião
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kVQ4lP0Nl_U?si=7k8hOPphl0w_kTcT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jAlEcjAqHGM?si=mPw3S1QL03ISpL2L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de Versão
 
